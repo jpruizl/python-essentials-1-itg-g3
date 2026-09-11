@@ -21,3 +21,5 @@ de código que requiera esa descripción """
 
 print('Aquí ya comienza mi programa')
 
+print('No se debe de hacer')
+
