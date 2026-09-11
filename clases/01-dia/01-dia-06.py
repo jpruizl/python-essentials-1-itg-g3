@@ -1,0 +1,6 @@
+print("Ahora","utilizando","ambos","juntos", end="!!!", sep="_")
+print()
+print("1","2","3","4","5", end="...", sep="-")
+print()
+print("Python", "es", "divertido", sep="\n", end="!")
+print()
