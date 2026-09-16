@@ -41,4 +41,3 @@ if x >= 3:
         if (x + y) > 0:
             print('se cumplieron todas las condiciones')
 print('el programa siempre pasa por aqui')
-
